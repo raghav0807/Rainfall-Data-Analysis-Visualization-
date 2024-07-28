@@ -10,9 +10,7 @@ Original file is located at
 
 
 
-*   Raghav Agiwal - 202151124
-*  Miraj Rathod   - 202151131
-
+..
 # **Sub Divisional Monthly Rainfall from 1901 to 2017**
 
 
@@ -27,7 +25,8 @@ from scipy.stats import chi2_contingency
 from scipy.stats import chi2
 
 # Preprocessing: Load the data from CSV
-# Load the data from CSV
+
+
 data = pd.read_csv('Sub_Division_IMD_2017.csv')
 data.rename(columns={'SUBDIVISION': 'STATES'}, inplace=True)
 data.set_index("STATES", inplace=True)
