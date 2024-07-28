@@ -73,6 +73,12 @@ The project is organized as follows:
 - Rainfall Distribution in [Random State] Across All Years
 - Boxplot of Annual Rainfall by State
 
+#### Screenshot 1
+
+![Screenshot 1](Screenshots/annual_rainfall.png)
+
+_Description: This screenshot shows a line plot of the total rainfall by month from 1901 to 2017. The plot highlights the trends and patterns in monthly rainfall over the years._
+
 ### Conclusion ⭐
 
 This project provides a comprehensive analysis and visualization of annual rainfall data across different states in India, offering valuable insights into rainfall patterns and trends over the years.
@@ -88,3 +94,5 @@ For any questions or collaboration, feel free to reach out to:
 - Name: Raghav Agiwal
 - Email: raghavagiwal20@gmail.com
 - GitHub: [Your GitHub Profile](https://github.com/raghav0807)
+
+<!-- C:\Users\canar\OneDrive\Desktop\Rainfall-Data-Analysis-Visualization\Screenshots\annual_rainfall.png -->
