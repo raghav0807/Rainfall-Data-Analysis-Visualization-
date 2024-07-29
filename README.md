@@ -73,11 +73,77 @@ The project is organized as follows:
 - Rainfall Distribution in [Random State] Across All Years
 - Boxplot of Annual Rainfall by State
 
+### Screenshots ⭐
+
 #### Screenshot 1
 
 ![Screenshot 1](Screenshots/annual_rainfall.png)
-
 _Description: This screenshot shows a line plot of the total rainfall by month from 1901 to 2017. The plot highlights the trends and patterns in monthly rainfall over the years._
+
+#### Screenshot 2
+
+![Joyplot of Monthly Data](Screenshots/joyplot.png)
+_Description: This screenshot shows a joyplot of monthly rainfall data, illustrating the distribution and density of rainfall for each month across the years._
+
+#### Screenshot 3
+
+![State-wise Minimum Annual Rainfall](Screenshots/state_wise.png)
+_Description: This screenshot shows the state-wise minimum annual rainfall and the corresponding year, providing insights into the lowest recorded rainfall for each state._
+
+#### Screenshot 4
+
+![Distribution of Annual Rainfall Across States](Screenshots/annual_rainfall.png)
+_Description: This screenshot shows the distribution of annual rainfall across states for a specific year, highlighting the variability in rainfall amounts among different states._
+
+#### Screenshot 5
+
+![Stacked Bar Chart of Total Rainfall by Month Over the Years](Screenshots/stacked_bar.png)
+_Description: This screenshot shows a stacked bar chart of total rainfall by month over the years, giving a visual representation of monthly rainfall trends over time._
+
+#### Screenshot 6
+
+![Pie Chart of Percentage Total Rainfall by State](Screenshots/pie_chart.png)
+_Description: This screenshot displays a pie chart showing the percentage of total rainfall by state, providing a visual distribution of rainfall across different states._
+
+#### Screenshot 7
+
+![Line Plot of Total Rainfall by Month](Screenshots/line_plot.png)
+_Description: This screenshot shows a line plot of total rainfall by month, illustrating the monthly trends in rainfall over the selected period._
+
+#### Screenshot 8
+
+![Correlation Heatmap](Screenshots/Screenshot3.png)
+_Description: This screenshot shows a correlation heatmap for rainfall data from July to December, highlighting the relationships between different months._
+
+#### Screenshot 9
+
+![QQ Plot of Annual Rainfall](Screenshots/QQ_plot.png)
+_Description: This screenshot features a QQ plot of annual rainfall data to assess the normality of the rainfall distribution._
+
+#### Screenshot 10
+
+![Joyplot of Monthly Rainfall](Screenshots/joyplot.png)
+_Description: This screenshot shows a joyplot of monthly rainfall, illustrating the distribution and density of rainfall for each month across the years._
+
+#### Screenshot 11
+
+![Strip Plot of Monthly Rainfall](Screenshots/stripplot.png)
+_Description: This screenshot displays a strip plot of monthly rainfall, providing a visual representation of rainfall amounts for each month over the years._
+
+#### Screenshot 12
+
+![Boxplot of Annual Rainfall by State](Screenshots/boxplot.png)
+_Description: This screenshot shows a boxplot of annual rainfall by state, highlighting the distribution and variability of rainfall across different states._
+
+#### Screenshot 13
+
+![Distribution of Sample Means (CLT)](Screenshots/histogram.png)
+_Description: This screenshot shows the distribution of sample means, demonstrating the Central Limit Theorem (CLT) which states that the sampling distribution of the sample means approaches a normal distribution as the sample size increases._
+
+#### Screenshot 14
+
+![Bootstrap Sampling Distribution](Screenshots/bootstrap_sample_means.png)
+_Description: This screenshot shows the bootstrap sampling distribution, illustrating the variability and confidence intervals of the sample means obtained through resampling._
 
 ### Conclusion ⭐
 
