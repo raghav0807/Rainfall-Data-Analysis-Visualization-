@@ -77,73 +77,75 @@ The project is organized as follows:
 
 #### Screenshot 1
 
-![Screenshot 1](Screenshots/annual_rainfall.png)
-_Description: This screenshot shows a line plot of the total rainfall by month from 1901 to 2017. The plot highlights the trends and patterns in monthly rainfall over the years._
+**Distribution of Annual Rainfall Across States**  
+![Distribution of Annual Rainfall Across States](Screenshots/annual_rainfall.png)  
+_This plot displays the distribution of annual rainfall across different states for a specific year, highlighting the variability in rainfall amounts among different states. The plot helps in understanding how annual rainfall is distributed across various states for a given year, showcasing regional variations in rainfall._
 
 #### Screenshot 2
 
-![Joyplot of Monthly Data](Screenshots/joyplot.png)
-_Description: This screenshot shows a joyplot of monthly rainfall data, illustrating the distribution and density of rainfall for each month across the years._
+**Joyplot of Monthly Data**  
+![Joyplot of Monthly Data](Screenshots/joyplot.png)  
+_A Joyplot (also known as a ridge plot) is a series of overlapping density plots or histograms, typically used to visualize the distribution of a numeric variable over different categories or groups. In this project, the joyplot visualizes the distribution of monthly rainfall across different years. It helps to identify patterns, variations, and trends in the monthly rainfall data._
 
 #### Screenshot 3
 
-![State-wise Minimum Annual Rainfall](Screenshots/state_wise.png)
-_Description: This screenshot shows the state-wise minimum annual rainfall and the corresponding year, providing insights into the lowest recorded rainfall for each state._
+**State-wise Minimum Annual Rainfall**  
+![State-wise Minimum Annual Rainfall](Screenshots/state_wise.png)  
+_This plot shows the minimum annual rainfall recorded for each state and the corresponding year. It helps in identifying the year and state with the lowest recorded rainfall. This visualization highlights the state-wise minimum annual rainfall, providing insights into the lowest recorded rainfall for each state over the years._
 
 #### Screenshot 4
 
-![Distribution of Annual Rainfall Across States](Screenshots/annual_rainfall.png)
-_Description: This screenshot shows the distribution of annual rainfall across states for a specific year, highlighting the variability in rainfall amounts among different states._
+**Stacked Bar Chart of Total Rainfall by Month Over the Years**  
+![Stacked Bar Chart of Total Rainfall by Month Over the Years](Screenshots/stacked_bar.png)  
+_A stacked bar chart is a bar chart where each bar is divided into multiple sub-bars stacked on top of each other, representing different groups or categories. This plot visualizes the total rainfall by month over the years, with each month’s rainfall stacked to show the contribution of each month to the total annual rainfall. This screenshot shows a stacked bar chart of total rainfall by month over the years, giving a visual representation of monthly rainfall trends over time._
 
 #### Screenshot 5
 
-![Stacked Bar Chart of Total Rainfall by Month Over the Years](Screenshots/stacked_bar.png)
-_Description: This screenshot shows a stacked bar chart of total rainfall by month over the years, giving a visual representation of monthly rainfall trends over time._
+**Pie Chart of Percentage Total Rainfall by State**  
+![Pie Chart of Percentage Total Rainfall by State](Screenshots/pie_chart.png)  
+_A pie chart is a circular statistical graphic divided into slices to illustrate numerical proportions. The pie chart shows the percentage of total rainfall contributed by each state, providing a visual distribution of rainfall across different states. This screenshot displays a pie chart showing the percentage of total rainfall by state, providing a visual distribution of rainfall across different states._
 
 #### Screenshot 6
 
-![Pie Chart of Percentage Total Rainfall by State](Screenshots/pie_chart.png)
-_Description: This screenshot displays a pie chart showing the percentage of total rainfall by state, providing a visual distribution of rainfall across different states._
+**Line Plot of Total Rainfall by Month**  
+![Line Plot of Total Rainfall by Month](Screenshots/line_plot.png)  
+_A line plot is a type of chart that displays information as a series of data points called 'markers' connected by straight line segments. This line plot shows the total rainfall by month, illustrating the monthly trends in rainfall over the selected period. This screenshot shows a line plot of total rainfall by month, illustrating the monthly trends in rainfall over the selected period._
 
 #### Screenshot 7
 
-![Line Plot of Total Rainfall by Month](Screenshots/line_plot.png)
-_Description: This screenshot shows a line plot of total rainfall by month, illustrating the monthly trends in rainfall over the selected period._
+**Correlation Heatmap**  
+![Correlation Heatmap](Screenshots/Screenshot3.png)  
+_A correlation heatmap is a graphical representation of data where individual values are represented as colors. It shows the correlation matrix of a dataset. The correlation heatmap visualizes the relationships between different months' rainfall data, helping to identify which months have similar rainfall patterns. This screenshot shows a correlation heatmap for rainfall data from July to December, highlighting the relationships between different months._
 
 #### Screenshot 8
 
-![Correlation Heatmap](Screenshots/Screenshot3.png)
-_Description: This screenshot shows a correlation heatmap for rainfall data from July to December, highlighting the relationships between different months._
+**QQ Plot of Annual Rainfall**  
+![QQ Plot of Annual Rainfall](Screenshots/QQ_plot.png)  
+_A QQ plot (quantile-quantile plot) is a probability plot that compares two probability distributions by plotting their quantiles against each other. The QQ plot assesses the normality of the annual rainfall distribution by comparing the rainfall data to a normal distribution. This screenshot features a QQ plot of annual rainfall data to assess the normality of the rainfall distribution._
 
 #### Screenshot 9
 
-![QQ Plot of Annual Rainfall](Screenshots/QQ_plot.png)
-_Description: This screenshot features a QQ plot of annual rainfall data to assess the normality of the rainfall distribution._
+**Strip Plot of Monthly Rainfall**  
+![Strip Plot of Monthly Rainfall](Screenshots/stripplot.png)  
+_A strip plot is a scatter plot where one of the variables is categorical. This screenshot displays a strip plot of monthly rainfall, providing a visual representation of rainfall amounts for each month over the years._
 
 #### Screenshot 10
 
-![Joyplot of Monthly Rainfall](Screenshots/joyplot.png)
-_Description: This screenshot shows a joyplot of monthly rainfall, illustrating the distribution and density of rainfall for each month across the years._
+**Boxplot of Annual Rainfall by State**  
+![Boxplot of Annual Rainfall by State](Screenshots/boxplot.png)  
+_A boxplot is a standardized way of displaying the distribution of data based on a five-number summary (minimum, first quartile, median, third quartile, and maximum). This screenshot shows a boxplot of annual rainfall by state, highlighting the distribution and variability of rainfall across different states._
 
 #### Screenshot 11
 
-![Strip Plot of Monthly Rainfall](Screenshots/stripplot.png)
-_Description: This screenshot displays a strip plot of monthly rainfall, providing a visual representation of rainfall amounts for each month over the years._
+**Distribution of Sample Means (CLT)**  
+![Distribution of Sample Means (CLT)](Screenshots/histogram.png)  
+_The Central Limit Theorem (CLT) states that the distribution of sample means approaches a normal distribution as the sample size increases. This screenshot shows the distribution of sample means, demonstrating the Central Limit Theorem (CLT) which states that the sampling distribution of the sample means approaches a normal distribution as the sample size increases._
 
 #### Screenshot 12
 
-![Boxplot of Annual Rainfall by State](Screenshots/boxplot.png)
-_Description: This screenshot shows a boxplot of annual rainfall by state, highlighting the distribution and variability of rainfall across different states._
-
-#### Screenshot 13
-
-![Distribution of Sample Means (CLT)](Screenshots/histogram.png)
-_Description: This screenshot shows the distribution of sample means, demonstrating the Central Limit Theorem (CLT) which states that the sampling distribution of the sample means approaches a normal distribution as the sample size increases._
-
-#### Screenshot 14
-
-![Bootstrap Sampling Distribution](Screenshots/bootstrap_sample_means.png)
-_Description: This screenshot shows the bootstrap sampling distribution, illustrating the variability and confidence intervals of the sample means obtained through resampling._
+**Bootstrap Sampling Distribution**  
+![Bootstrap Sampling Distribution](Screenshots/bootstrap_sample_means.png)  
+_Bootstrap sampling involves repeatedly sampling from a dataset with replacement to estimate the distribution of a statistic. The histogram shows the bootstrap sampling distribution, illustrating the variability and confidence intervals of the sample means obtained through resampling._
 
 ### Conclusion ⭐
 
