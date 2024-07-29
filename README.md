@@ -147,8 +147,6 @@ _The Central Limit Theorem (CLT) states that the distribution of sample means ap
 ![Bootstrap Sampling Distribution](Screenshots/bootstrap%20sample%20means.png)  
 _Bootstrap sampling involves repeatedly sampling from a dataset with replacement to estimate the distribution of a statistic. The histogram shows the bootstrap sampling distribution, illustrating the variability and confidence intervals of the sample means obtained through resampling._
 
-x
-
 ### Conclusion ⭐
 
 This project provides a comprehensive analysis and visualization of annual rainfall data across different states in India, offering valuable insights into rainfall patterns and trends over the years.
