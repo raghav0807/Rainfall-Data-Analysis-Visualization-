@@ -157,10 +157,16 @@ This project is licensed under the MIT License.
 
 ### Contact ⭐
 
-For any questions or collaboration, feel free to reach out to:
+<!-- For any questions or collaboration, feel free to reach out to:
 
 - Name: Raghav Agiwal
 - Email: raghavagiwal20@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/raghav0807)
+- GitHub: [Your GitHub Profile](https://github.com/raghav0807) -->
+
+### For any questions or collaboration, feel free to reach out to:
+
+**Name:** Raghav Agiwal  
+**Email:** raghavagiwal20@gmail.com  
+**GitHub:** [GitHub Profile](https://github.com/raghav0807)
 
 <!-- C:\Users\canar\OneDrive\Desktop\Rainfall-Data-Analysis-Visualization\Screenshots\annual_rainfall.png -->
